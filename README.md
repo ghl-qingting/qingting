@@ -1,2 +1,3 @@
 # qingting
-this is qingting github
+这是qingting github
+初次使用
